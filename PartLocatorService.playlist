@@ -1,0 +1,1 @@
+<Playlist Version="1.0"><Add Test="XenomorphParts.Test.ServicesTests.TestPartLocatorService.PartLocatorService_GetLocation_GoodId_ReturnsPartLocatorDto" /><Add Test="XenomorphParts.Test.ServicesTests.TestPartLocatorService.PartLocatorService_GetLocation_BadId_ThrowsException" /></Playlist>
