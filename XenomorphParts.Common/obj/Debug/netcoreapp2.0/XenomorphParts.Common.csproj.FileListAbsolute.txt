@@ -1,0 +1,9 @@
+C:\Users\JAMES\Documents\Visual Studio 2017\Projects\XenomorphParts\XenomorphParts.Common\bin\Debug\netcoreapp2.0\XenomorphParts.Common.deps.json
+C:\Users\JAMES\Documents\Visual Studio 2017\Projects\XenomorphParts\XenomorphParts.Common\bin\Debug\netcoreapp2.0\XenomorphParts.Common.dll
+C:\Users\JAMES\Documents\Visual Studio 2017\Projects\XenomorphParts\XenomorphParts.Common\bin\Debug\netcoreapp2.0\XenomorphParts.Common.pdb
+C:\Users\JAMES\Documents\Visual Studio 2017\Projects\XenomorphParts\XenomorphParts.Common\obj\Debug\netcoreapp2.0\XenomorphParts.Common.csprojResolveAssemblyReference.cache
+C:\Users\JAMES\Documents\Visual Studio 2017\Projects\XenomorphParts\XenomorphParts.Common\obj\Debug\netcoreapp2.0\XenomorphParts.Common.csproj.CoreCompileInputs.cache
+C:\Users\JAMES\Documents\Visual Studio 2017\Projects\XenomorphParts\XenomorphParts.Common\obj\Debug\netcoreapp2.0\XenomorphParts.Common.AssemblyInfoInputs.cache
+C:\Users\JAMES\Documents\Visual Studio 2017\Projects\XenomorphParts\XenomorphParts.Common\obj\Debug\netcoreapp2.0\XenomorphParts.Common.AssemblyInfo.cs
+C:\Users\JAMES\Documents\Visual Studio 2017\Projects\XenomorphParts\XenomorphParts.Common\obj\Debug\netcoreapp2.0\XenomorphParts.Common.dll
+C:\Users\JAMES\Documents\Visual Studio 2017\Projects\XenomorphParts\XenomorphParts.Common\obj\Debug\netcoreapp2.0\XenomorphParts.Common.pdb
