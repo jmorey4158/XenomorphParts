@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\XenomorphParts.DTO\XenomorphParts.DTO.csproj" />
+    <ProjectReference Include="..\XenomorphParts.Exceptions\XenomorphParts.Exceptions.csproj" />
+    <ProjectReference Include="..\XenomorphParts.Interfaces\XenomorphParts.Interfaces.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeAnalysis.Analyzers">
+      <HintPath>..\..\..\..\..\.nuget\packages\Microsoft.CodeAnalysis.Analyzers\1.1.0\analyzers\dotnet\cs\Microsoft.CodeAnalysis.Analyzers.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CodeAnalysis.CSharp.Analyzers">
+      <HintPath>..\..\..\..\..\.nuget\packages\Microsoft.CodeAnalysis.Analyzers\1.1.0\analyzers\dotnet\cs\Microsoft.CodeAnalysis.CSharp.Analyzers.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="DbContext\" />
+  </ItemGroup>
+
+</Project>

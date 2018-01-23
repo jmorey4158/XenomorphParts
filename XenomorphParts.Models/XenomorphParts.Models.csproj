@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\XenomorphParts.Common\XenomorphParts.Common.csproj" />
+    <ProjectReference Include="..\XenomorphParts.DTO\XenomorphParts.DTO.csproj" />
+    <ProjectReference Include="..\XenomorphParts.Exceptions\XenomorphParts.Exceptions.csproj" />
+    <ProjectReference Include="..\XenomorphParts.Interfaces\XenomorphParts.Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>
