@@ -1,0 +1,9 @@
+C:\Users\JAMES\Documents\Visual Studio 2017\Projects\XenomorphParts\XenomorphParts.Exceptions3\bin\Debug\netcoreapp2.0\XenomorphParts.Exceptions3.deps.json
+C:\Users\JAMES\Documents\Visual Studio 2017\Projects\XenomorphParts\XenomorphParts.Exceptions3\bin\Debug\netcoreapp2.0\XenomorphParts.Exceptions3.dll
+C:\Users\JAMES\Documents\Visual Studio 2017\Projects\XenomorphParts\XenomorphParts.Exceptions3\bin\Debug\netcoreapp2.0\XenomorphParts.Exceptions3.pdb
+C:\Users\JAMES\Documents\Visual Studio 2017\Projects\XenomorphParts\XenomorphParts.Exceptions3\obj\Debug\netcoreapp2.0\XenomorphParts.Exceptions3.csprojResolveAssemblyReference.cache
+C:\Users\JAMES\Documents\Visual Studio 2017\Projects\XenomorphParts\XenomorphParts.Exceptions3\obj\Debug\netcoreapp2.0\XenomorphParts.Exceptions3.csproj.CoreCompileInputs.cache
+C:\Users\JAMES\Documents\Visual Studio 2017\Projects\XenomorphParts\XenomorphParts.Exceptions3\obj\Debug\netcoreapp2.0\XenomorphParts.Exceptions3.AssemblyInfoInputs.cache
+C:\Users\JAMES\Documents\Visual Studio 2017\Projects\XenomorphParts\XenomorphParts.Exceptions3\obj\Debug\netcoreapp2.0\XenomorphParts.Exceptions3.AssemblyInfo.cs
+C:\Users\JAMES\Documents\Visual Studio 2017\Projects\XenomorphParts\XenomorphParts.Exceptions3\obj\Debug\netcoreapp2.0\XenomorphParts.Exceptions3.dll
+C:\Users\JAMES\Documents\Visual Studio 2017\Projects\XenomorphParts\XenomorphParts.Exceptions3\obj\Debug\netcoreapp2.0\XenomorphParts.Exceptions3.pdb
