@@ -6193,17 +6193,17 @@
       ]
     },
     "Microsoft.CodeAnalysis.Analyzers/1.1.0": {
-      "sha512": "0EwfFOr/N1BGQoacSmzHQ/+o5FjkMmh+IMDthK+m6dopfd+XoCKniyIyn24EuSHGOmDhll54tZOSUdAzA9lTog==",
+      "sha512": "HS3iRWZKcUw/8eZ/08GXKY2Bn7xNzQPzf8gRPHGSowX7u7XXu9i9YEaBeBNKUXWfI7qjvT2zXtLUvbN0hds8vg==",
       "type": "package",
       "path": "microsoft.codeanalysis.analyzers/1.1.0",
       "files": [
-        "Microsoft.CodeAnalysis.Analyzers.1.1.0.nupkg.sha512",
-        "Microsoft.CodeAnalysis.Analyzers.nuspec",
         "ThirdPartyNotices.rtf",
         "analyzers/dotnet/cs/Microsoft.CodeAnalysis.Analyzers.dll",
         "analyzers/dotnet/cs/Microsoft.CodeAnalysis.CSharp.Analyzers.dll",
         "analyzers/dotnet/vb/Microsoft.CodeAnalysis.Analyzers.dll",
         "analyzers/dotnet/vb/Microsoft.CodeAnalysis.VisualBasic.Analyzers.dll",
+        "microsoft.codeanalysis.analyzers.1.1.0.nupkg.sha512",
+        "microsoft.codeanalysis.analyzers.nuspec",
         "tools/install.ps1",
         "tools/uninstall.ps1"
       ]
@@ -10360,12 +10360,10 @@
       ]
     },
     "System.Linq.Queryable/4.0.1": {
-      "sha512": "If4Ybf/ra3CYLofxL2XOkB9szQ1xjG6RNuy48O1YPmSCC4elpG7kUWcUOMYVljt+ctKkwdAfpIKhqfK1aw9xWg==",
+      "sha512": "Yn/WfYe9RoRfmSLvUt2JerP0BTGGykCZkQPgojaxgzF2N0oPo+/AhB8TXOpdCcNlrG3VRtsamtK2uzsp3cqRVw==",
       "type": "package",
       "path": "system.linq.queryable/4.0.1",
       "files": [
-        "System.Linq.Queryable.4.0.1.nupkg.sha512",
-        "System.Linq.Queryable.nuspec",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/monoandroid10/_._",
@@ -10413,7 +10411,9 @@
         "ref/xamarinios10/_._",
         "ref/xamarinmac20/_._",
         "ref/xamarintvos10/_._",
-        "ref/xamarinwatchos10/_._"
+        "ref/xamarinwatchos10/_._",
+        "system.linq.queryable.4.0.1.nupkg.sha512",
+        "system.linq.queryable.nuspec"
       ]
     },
     "System.Net.Http/4.3.0": {
@@ -13329,7 +13329,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\JAMES\\.nuget\\packages\\": {},
+    "C:\\Users\\v-jamore\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
@@ -13339,18 +13339,18 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\JAMES\\Documents\\Visual Studio 2017\\Projects\\XenomorphParts\\XenomorphParts.Domain\\XenomorphParts.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\v-jamore\\Source\\Repos\\XenomorphParts\\XenomorphParts.Domain\\XenomorphParts.Domain.csproj",
       "projectName": "XenomorphParts.Domain",
-      "projectPath": "C:\\Users\\JAMES\\Documents\\Visual Studio 2017\\Projects\\XenomorphParts\\XenomorphParts.Domain\\XenomorphParts.Domain.csproj",
-      "packagesPath": "C:\\Users\\JAMES\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JAMES\\Documents\\Visual Studio 2017\\Projects\\XenomorphParts\\XenomorphParts.Domain\\obj\\",
+      "projectPath": "C:\\Users\\v-jamore\\Source\\Repos\\XenomorphParts\\XenomorphParts.Domain\\XenomorphParts.Domain.csproj",
+      "packagesPath": "C:\\Users\\v-jamore\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\v-jamore\\Source\\Repos\\XenomorphParts\\XenomorphParts.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\JAMES\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\v-jamore\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
@@ -13364,11 +13364,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\JAMES\\Documents\\Visual Studio 2017\\Projects\\XenomorphParts\\XenomorphParts.Interfaces\\XenomorphParts.Interfaces.csproj": {
-              "projectPath": "C:\\Users\\JAMES\\Documents\\Visual Studio 2017\\Projects\\XenomorphParts\\XenomorphParts.Interfaces\\XenomorphParts.Interfaces.csproj"
+            "C:\\Users\\v-jamore\\Source\\Repos\\XenomorphParts\\XenomorphParts.Interfaces\\XenomorphParts.Interfaces.csproj": {
+              "projectPath": "C:\\Users\\v-jamore\\Source\\Repos\\XenomorphParts\\XenomorphParts.Interfaces\\XenomorphParts.Interfaces.csproj"
             },
-            "C:\\Users\\JAMES\\Documents\\Visual Studio 2017\\Projects\\XenomorphParts\\XenomorphParts.Persistence\\XenomorphParts.Persistence.csproj": {
-              "projectPath": "C:\\Users\\JAMES\\Documents\\Visual Studio 2017\\Projects\\XenomorphParts\\XenomorphParts.Persistence\\XenomorphParts.Persistence.csproj"
+            "C:\\Users\\v-jamore\\Source\\Repos\\XenomorphParts\\XenomorphParts.Persistence\\XenomorphParts.Persistence.csproj": {
+              "projectPath": "C:\\Users\\v-jamore\\Source\\Repos\\XenomorphParts\\XenomorphParts.Persistence\\XenomorphParts.Persistence.csproj"
             }
           }
         }

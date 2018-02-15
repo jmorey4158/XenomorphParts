@@ -1,11 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.Collections.Generic;
 using XenomorphParts.DTO;
 using XenomorphParts.Interfaces.DTO;
 using XenomorphParts.Interfaces.Repository;
 using XenomorphParts.Exceptions;
-using XenomorphParts.Common.Enums;
 
 
 namespace XenomorphParts.Persistence.Repositories
@@ -38,7 +35,7 @@ namespace XenomorphParts.Persistence.Repositories
             LocatorAvailable = 480,
             Reserved = 24
         };
-        private static readonly IPartDto _part3 = new PartDto()
+        private static readonly IPartDto _part3 = new PartDto()                                                        
         {
             Id = 8765092380,
             Name = "Andorian HyperDrive Injector Seals - Andorian Qeqlak Stone",

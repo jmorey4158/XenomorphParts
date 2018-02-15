@@ -1,11 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 using XenomorphParts.Interfaces.Repository;
 using XenomorphParts.Interfaces.DTO;
-using XenomorphParts.Common.Enums;
-using XenomorphParts.Persistence.Repositories;
 
 
 namespace XenomorphParts.Domain.Services

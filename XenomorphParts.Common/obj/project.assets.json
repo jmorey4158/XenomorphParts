@@ -664,7 +664,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\JAMES\\.nuget\\packages\\": {},
+    "C:\\Users\\v-jamore\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
@@ -674,18 +674,18 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\JAMES\\Documents\\Visual Studio 2017\\Projects\\XenomorphParts\\XenomorphParts.Common\\XenomorphParts.Common.csproj",
+      "projectUniqueName": "C:\\Users\\v-jamore\\Source\\Repos\\XenomorphParts\\XenomorphParts.Common\\XenomorphParts.Common.csproj",
       "projectName": "XenomorphParts.Common",
-      "projectPath": "C:\\Users\\JAMES\\Documents\\Visual Studio 2017\\Projects\\XenomorphParts\\XenomorphParts.Common\\XenomorphParts.Common.csproj",
-      "packagesPath": "C:\\Users\\JAMES\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JAMES\\Documents\\Visual Studio 2017\\Projects\\XenomorphParts\\XenomorphParts.Common\\obj\\",
+      "projectPath": "C:\\Users\\v-jamore\\Source\\Repos\\XenomorphParts\\XenomorphParts.Common\\XenomorphParts.Common.csproj",
+      "packagesPath": "C:\\Users\\v-jamore\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\v-jamore\\Source\\Repos\\XenomorphParts\\XenomorphParts.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\JAMES\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\v-jamore\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
