@@ -7,8 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XenomorphParts.Domain", "Xe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XenomorphParts.Persistence", "XenomorphParts.Persistence\XenomorphParts.Persistence.csproj", "{CEB6CFF5-C17D-4490-8409-B648D0FDE32F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XenomorphParts.Test", "XenomorphParts.Test\XenomorphParts.Test.csproj", "{FD62F57C-63D1-4860-B817-4D24BAD8281D}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XenomorphParts.Models", "XenomorphParts.Models\XenomorphParts.Models.csproj", "{CE84C204-BC53-4C85-A73F-0C80DEEAB470}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XenomorphParts.Common", "XenomorphParts.Common\XenomorphParts.Common.csproj", "{244D9614-C10B-4EF7-AB19-04E4D3288DE9}"
@@ -33,10 +31,6 @@ Global
 		{CEB6CFF5-C17D-4490-8409-B648D0FDE32F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CEB6CFF5-C17D-4490-8409-B648D0FDE32F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CEB6CFF5-C17D-4490-8409-B648D0FDE32F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{FD62F57C-63D1-4860-B817-4D24BAD8281D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FD62F57C-63D1-4860-B817-4D24BAD8281D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FD62F57C-63D1-4860-B817-4D24BAD8281D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FD62F57C-63D1-4860-B817-4D24BAD8281D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{CE84C204-BC53-4C85-A73F-0C80DEEAB470}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{CE84C204-BC53-4C85-A73F-0C80DEEAB470}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE84C204-BC53-4C85-A73F-0C80DEEAB470}.Release|Any CPU.ActiveCfg = Release|Any CPU

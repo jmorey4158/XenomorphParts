@@ -24,3 +24,4 @@ C:\Users\v-jamore\source\repos\XenomorphParts\XenomorphParts.Exceptions\obj\Debu
 C:\Users\v-jamore\source\repos\XenomorphParts\XenomorphParts.Exceptions\obj\Debug\netcoreapp2.0\XenomorphParts.Exceptions.AssemblyInfo.cs
 C:\Users\v-jamore\source\repos\XenomorphParts\XenomorphParts.Exceptions\obj\Debug\netcoreapp2.0\XenomorphParts.Exceptions.dll
 C:\Users\v-jamore\source\repos\XenomorphParts\XenomorphParts.Exceptions\obj\Debug\netcoreapp2.0\XenomorphParts.Exceptions.pdb
+C:\Users\v-jamore\source\repos\XenomorphParts\XenomorphParts.Exceptions\obj\Debug\netcoreapp2.0\XenomorphParts.Exceptions.csprojAssemblyReference.cache
