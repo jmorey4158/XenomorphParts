@@ -19,42 +19,114 @@ namespace XenomorphParts.Domain.Controllers
 
         // GET api/branchstore/getbyid/5
         [HttpGet("{id}")]
-        public IActionResult GetById(string id) { return _helper.GetById(id); }
+        public IActionResult GetById(string id)
+        {
+            if ( String.IsNullOrEmpty(id) )
+            {
+                ParameterNullException e = new ParameterNullException("The parameter cannot be null");
+                return BadRequest(e.Message);
+            }
+
+            return _helper.GetById(id);
+        }
 
 
         // GET api/branchstore/getbyname/Puldark Station
         [HttpGet("{name}")]
-        public IActionResult GetByName(string name) { return _helper.GetByName(type, name); }
+        public IActionResult GetByName(string name)
+        {
+            if ( String.IsNullOrEmpty(name) )
+            {
+                ParameterNullException e = new ParameterNullException("The parameter cannot be null");
+                return BadRequest(e.Message);
+            }
+
+            return _helper.GetByName(type, name);
+        }
 
 
         // GET api/branchstore/getbylocation/1234567
         [HttpGet("{location}")]
-        public IActionResult GetByLocationId(string location) { return _helper.GetByLocationId(location); }
+        public IActionResult GetByLocationId(string location)
+        {
+            if ( String.IsNullOrEmpty(location) )
+            {
+                ParameterNullException e = new ParameterNullException("The parameter cannot be null");
+                return BadRequest(e.Message);
+            }
+
+            return _helper.GetByLocationId(location);
+        }
 
 
         // GET api/branchstore/getbysystem/Yabin
         [HttpGet("{system}")]
-        public IActionResult GetBySystem(string system) { return _helper.GetBySystem(type, system); }
+        public IActionResult GetBySystem(string system)
+        {
+            if ( String.IsNullOrEmpty(system) )
+            {
+                ParameterNullException e = new ParameterNullException("The parameter cannot be null");
+                return BadRequest(e.Message);
+            }
+
+            return _helper.GetBySystem(type, system);
+        }
 
 
         // GET api/branchstore/getbyplanet/Puldark
         [HttpGet("{planet}")]
-        public IActionResult GetByPlanet(string planet) { return _helper.GetByPlanet(type, planet); }
+        public IActionResult GetByPlanet(string planet)
+        {
+            if ( String.IsNullOrEmpty(planet) )
+            {
+                ParameterNullException e = new ParameterNullException("The parameter cannot be null");
+                return BadRequest(e.Message);
+            }
+
+            return _helper.GetByPlanet(type, planet);
+        }
 
 
         // GET api/branchstore/getbyregion/United States of Puldark
         [HttpGet("{region}")]
-        public IActionResult GetByRegion(string region) { return _helper.GetByRegion(type, region); }
+        public IActionResult GetByRegion(string region)
+        {
+            if ( String.IsNullOrEmpty(region) )
+            {
+                ParameterNullException e = new ParameterNullException("The parameter cannot be null");
+                return BadRequest(e.Message);
+            }
+
+            return _helper.GetByRegion(type, region);
+        }
 
 
         // GET api/branchstore/getbyregion/United States of Puldark
         [HttpGet("{state}")]
-        public IActionResult GetByState(string state) { return _helper.GetByState(type, state); }
+        public IActionResult GetByState(string state)
+        {
+            if ( String.IsNullOrEmpty(state) )
+            {
+                ParameterNullException e = new ParameterNullException("The parameter cannot be null");
+                return BadRequest(e.Message);
+            }
+
+            return _helper.GetByState(type, state);
+        }
 
 
         // GET api/branchstore/getbyregion/United States of Puldark
         [HttpGet("{postal}")]
-        public IActionResult GetByPostalCode(string postal) { return _helper.GetByPostalCode(type, postal); }
+        public IActionResult GetByPostalCode(string postal)
+        {
+            if ( String.IsNullOrEmpty(postal) )
+            {
+                ParameterNullException e = new ParameterNullException("The parameter cannot be null");
+                return BadRequest(e.Message);
+            }
+
+            return _helper.GetByPostalCode(type, postal);
+        }
 
 
 

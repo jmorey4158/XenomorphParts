@@ -37,6 +37,12 @@ namespace XenomorphParts.Domain.Controllers
         [HttpGet("{name}")]
         public IActionResult GetByOrderName(string name)
         {
+            if ( String.IsNullOrEmpty(name) )
+            {
+                ParameterNullException e = new ParameterNullException("The parameter cannot be null");
+                return BadRequest(e.Message);
+            }
+
             try
             {
                 return Ok( _orderSummaryService.GetByOrderName(name) );
@@ -67,6 +73,12 @@ namespace XenomorphParts.Domain.Controllers
         [HttpGet("{date}")]
         public IActionResult GetByOrderDate(string date)
         {
+            if ( String.IsNullOrEmpty(date) )
+            {
+                ParameterNullException e = new ParameterNullException("The parameter cannot be null");
+                return BadRequest(e.Message);
+            }
+
             try
             {
                 DateTime _dt = new DateTime();
@@ -89,6 +101,12 @@ namespace XenomorphParts.Domain.Controllers
         [HttpGet("{range}")]
         public IActionResult GetByDateRange(string range)
         {
+            if ( String.IsNullOrEmpty(range) )
+            {
+                ParameterNullException e = new ParameterNullException("The parameter cannot be null");
+                return BadRequest(e.Message);
+            }
+
             try
             {
                 var _range = range.Split('-');

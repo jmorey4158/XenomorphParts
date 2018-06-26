@@ -15,3 +15,21 @@ C:\Users\JAMES\Documents\Visual Studio 2017\Projects\XenomorphParts\XenomorphPar
 C:\Users\JAMES\Documents\Visual Studio 2017\Projects\XenomorphParts\XenomorphParts.Models\obj\Debug\netcoreapp2.0\XenomorphParts.Models.AssemblyInfo.cs
 C:\Users\JAMES\Documents\Visual Studio 2017\Projects\XenomorphParts\XenomorphParts.Models\obj\Debug\netcoreapp2.0\XenomorphParts.Models.dll
 C:\Users\JAMES\Documents\Visual Studio 2017\Projects\XenomorphParts\XenomorphParts.Models\obj\Debug\netcoreapp2.0\XenomorphParts.Models.pdb
+C:\Users\v-jamore\source\repos\XenomorphParts\XenomorphParts.Models\bin\Debug\netcoreapp2.0\XenomorphParts.Models.deps.json
+C:\Users\v-jamore\source\repos\XenomorphParts\XenomorphParts.Models\bin\Debug\netcoreapp2.0\XenomorphParts.Models.dll
+C:\Users\v-jamore\source\repos\XenomorphParts\XenomorphParts.Models\bin\Debug\netcoreapp2.0\XenomorphParts.Models.pdb
+C:\Users\v-jamore\source\repos\XenomorphParts\XenomorphParts.Models\bin\Debug\netcoreapp2.0\XenomorphParts.Common.dll
+C:\Users\v-jamore\source\repos\XenomorphParts\XenomorphParts.Models\bin\Debug\netcoreapp2.0\XenomorphParts.DTO.dll
+C:\Users\v-jamore\source\repos\XenomorphParts\XenomorphParts.Models\bin\Debug\netcoreapp2.0\XenomorphParts.Exceptions.dll
+C:\Users\v-jamore\source\repos\XenomorphParts\XenomorphParts.Models\bin\Debug\netcoreapp2.0\XenomorphParts.Interfaces.dll
+C:\Users\v-jamore\source\repos\XenomorphParts\XenomorphParts.Models\bin\Debug\netcoreapp2.0\XenomorphParts.Common.pdb
+C:\Users\v-jamore\source\repos\XenomorphParts\XenomorphParts.Models\bin\Debug\netcoreapp2.0\XenomorphParts.DTO.pdb
+C:\Users\v-jamore\source\repos\XenomorphParts\XenomorphParts.Models\bin\Debug\netcoreapp2.0\XenomorphParts.Exceptions.pdb
+C:\Users\v-jamore\source\repos\XenomorphParts\XenomorphParts.Models\bin\Debug\netcoreapp2.0\XenomorphParts.Interfaces.pdb
+C:\Users\v-jamore\source\repos\XenomorphParts\XenomorphParts.Models\obj\Debug\netcoreapp2.0\XenomorphParts.Models.csprojAssemblyReference.cache
+C:\Users\v-jamore\source\repos\XenomorphParts\XenomorphParts.Models\obj\Debug\netcoreapp2.0\XenomorphParts.Models.csproj.CoreCompileInputs.cache
+C:\Users\v-jamore\source\repos\XenomorphParts\XenomorphParts.Models\obj\Debug\netcoreapp2.0\XenomorphParts.Models.AssemblyInfoInputs.cache
+C:\Users\v-jamore\source\repos\XenomorphParts\XenomorphParts.Models\obj\Debug\netcoreapp2.0\XenomorphParts.Models.AssemblyInfo.cs
+C:\Users\v-jamore\source\repos\XenomorphParts\XenomorphParts.Models\obj\Debug\netcoreapp2.0\XenomorphParts.Models.csproj.CopyComplete
+C:\Users\v-jamore\source\repos\XenomorphParts\XenomorphParts.Models\obj\Debug\netcoreapp2.0\XenomorphParts.Models.dll
+C:\Users\v-jamore\source\repos\XenomorphParts\XenomorphParts.Models\obj\Debug\netcoreapp2.0\XenomorphParts.Models.pdb

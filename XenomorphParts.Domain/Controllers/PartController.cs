@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Remotion.Linq.Parsing.Structure.IntermediateModel;
 using XenomorphParts.Domain.Services;
 using XenomorphParts.Interfaces.Repository;
 using XenomorphParts.Persistence.Repositories;
@@ -36,6 +37,12 @@ namespace XenomorphParts.Domain.Controllers
         [HttpGet("{name}")]
         public IActionResult GetByName(string name)
         {
+            if (String.IsNullOrEmpty(name))
+            {
+                ParameterNullException e = new ParameterNullException("The parameter cannot be null");
+                return BadRequest(e.Message);
+            }
+
             try
             {
                 return Ok(_partRepo.GetByPartName(name));

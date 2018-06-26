@@ -24,3 +24,17 @@ C:\Users\JAMES\Documents\Visual Studio 2017\Projects\XenomorphParts\XenomorphPar
 C:\Users\JAMES\Documents\Visual Studio 2017\Projects\XenomorphParts\XenomorphParts.DTO\obj\Debug\netcoreapp2.0\XenomorphParts.DTO.AssemblyInfo.cs
 C:\Users\JAMES\Documents\Visual Studio 2017\Projects\XenomorphParts\XenomorphParts.DTO\obj\Debug\netcoreapp2.0\XenomorphParts.DTO.dll
 C:\Users\JAMES\Documents\Visual Studio 2017\Projects\XenomorphParts\XenomorphParts.DTO\obj\Debug\netcoreapp2.0\XenomorphParts.DTO.pdb
+C:\Users\v-jamore\source\repos\XenomorphParts\XenomorphParts.DTO\bin\Debug\netcoreapp2.0\XenomorphParts.DTO.deps.json
+C:\Users\v-jamore\source\repos\XenomorphParts\XenomorphParts.DTO\bin\Debug\netcoreapp2.0\XenomorphParts.DTO.dll
+C:\Users\v-jamore\source\repos\XenomorphParts\XenomorphParts.DTO\bin\Debug\netcoreapp2.0\XenomorphParts.DTO.pdb
+C:\Users\v-jamore\source\repos\XenomorphParts\XenomorphParts.DTO\bin\Debug\netcoreapp2.0\XenomorphParts.Common.dll
+C:\Users\v-jamore\source\repos\XenomorphParts\XenomorphParts.DTO\bin\Debug\netcoreapp2.0\XenomorphParts.Interfaces.dll
+C:\Users\v-jamore\source\repos\XenomorphParts\XenomorphParts.DTO\bin\Debug\netcoreapp2.0\XenomorphParts.Common.pdb
+C:\Users\v-jamore\source\repos\XenomorphParts\XenomorphParts.DTO\bin\Debug\netcoreapp2.0\XenomorphParts.Interfaces.pdb
+C:\Users\v-jamore\source\repos\XenomorphParts\XenomorphParts.DTO\obj\Debug\netcoreapp2.0\XenomorphParts.DTO.csprojAssemblyReference.cache
+C:\Users\v-jamore\source\repos\XenomorphParts\XenomorphParts.DTO\obj\Debug\netcoreapp2.0\XenomorphParts.DTO.csproj.CoreCompileInputs.cache
+C:\Users\v-jamore\source\repos\XenomorphParts\XenomorphParts.DTO\obj\Debug\netcoreapp2.0\XenomorphParts.DTO.AssemblyInfoInputs.cache
+C:\Users\v-jamore\source\repos\XenomorphParts\XenomorphParts.DTO\obj\Debug\netcoreapp2.0\XenomorphParts.DTO.AssemblyInfo.cs
+C:\Users\v-jamore\source\repos\XenomorphParts\XenomorphParts.DTO\obj\Debug\netcoreapp2.0\XenomorphParts.DTO.csproj.CopyComplete
+C:\Users\v-jamore\source\repos\XenomorphParts\XenomorphParts.DTO\obj\Debug\netcoreapp2.0\XenomorphParts.DTO.dll
+C:\Users\v-jamore\source\repos\XenomorphParts\XenomorphParts.DTO\obj\Debug\netcoreapp2.0\XenomorphParts.DTO.pdb

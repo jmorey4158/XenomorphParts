@@ -1,0 +1,8 @@
+C:\Users\v-jamore\source\repos\XenomorphParts\.vs\XenomorphParts\lut\0\b\XenomorphParts.Interfaces\Debug\netcoreapp2.0\XenomorphParts.Interfaces.deps.json
+C:\Users\v-jamore\source\repos\XenomorphParts\.vs\XenomorphParts\lut\0\b\XenomorphParts.Interfaces\Debug\netcoreapp2.0\XenomorphParts.Interfaces.dll
+C:\Users\v-jamore\source\repos\XenomorphParts\.vs\XenomorphParts\lut\0\i\XenomorphParts.Interfaces\Debug\netcoreapp2.0\XenomorphParts.Interfaces.csprojAssemblyReference.cache
+C:\Users\v-jamore\source\repos\XenomorphParts\.vs\XenomorphParts\lut\0\i\XenomorphParts.Interfaces\Debug\netcoreapp2.0\XenomorphParts.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\v-jamore\source\repos\XenomorphParts\.vs\XenomorphParts\lut\0\i\XenomorphParts.Interfaces\Debug\netcoreapp2.0\XenomorphParts.Interfaces.AssemblyInfoInputs.cache
+C:\Users\v-jamore\source\repos\XenomorphParts\.vs\XenomorphParts\lut\0\i\XenomorphParts.Interfaces\Debug\netcoreapp2.0\XenomorphParts.Interfaces.AssemblyInfo.cs
+C:\Users\v-jamore\source\repos\XenomorphParts\.vs\XenomorphParts\lut\0\i\XenomorphParts.Interfaces\Debug\netcoreapp2.0\XenomorphParts.Interfaces.csproj.CopyComplete
+C:\Users\v-jamore\source\repos\XenomorphParts\.vs\XenomorphParts\lut\0\i\XenomorphParts.Interfaces\Debug\netcoreapp2.0\XenomorphParts.Interfaces.dll

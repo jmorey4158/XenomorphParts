@@ -67,7 +67,7 @@ namespace XenomorphParts.Persistence.Repositories
             if (id == 1234567)
                 return _asdto1;
             else
-                throw new AssemblyNotFoundException($"Assembly not found for {nameof(IAssemblyDto.Id)}: {id}. ");
+                throw new ParameterNullException($"Assembly not found for {nameof(IAssemblyDto.Id)}: {id}. ");
         }
 
         public IEnumerable<IAssemblyDto> GetByManufacturerId(string manufacturer)
@@ -75,7 +75,7 @@ namespace XenomorphParts.Persistence.Repositories
             if (manufacturer == "8990174")
                 return new List<IAssemblyDto>() { _asdto1 };
             else
-                throw new AssemblyNotFoundException($"Assembly not found for {nameof(IAssemblyDto.ManufacturerId)}: {manufacturer}. ");
+                throw new ParameterNullException($"Assembly not found for {nameof(IAssemblyDto.ManufacturerId)}: {manufacturer}. ");
         }
 
         public IEnumerable<IAssemblyDto> GetByModelId(long model)
@@ -83,7 +83,7 @@ namespace XenomorphParts.Persistence.Repositories
             if (model == 2093843098)
                 return new List<IAssemblyDto>() { _asdto1 };
             else
-                throw new AssemblyNotFoundException($"Assembly not found for {nameof(IAssemblyDto.ModelId)}: {model}. ");
+                throw new ParameterNullException($"Assembly not found for {nameof(IAssemblyDto.ModelId)}: {model}. ");
         }
 
         public IEnumerable<IAssemblyDto> GetByName(string name)
@@ -91,7 +91,7 @@ namespace XenomorphParts.Persistence.Repositories
             if (name.Contains("Andorian HyperDrive Injection"))
                 return new List<IAssemblyDto>() { _asdto1 };
             else
-                throw new AssemblyNotFoundException($"Assembly not found for {nameof(IAssemblyDto.Name)}: {name}. ");
+                throw new ParameterNullException($"Assembly not found for {nameof(IAssemblyDto.Name)}: {name}. ");
         }
 
         public IEnumerable<IAssemblyDto> GetByParent(long parent)
@@ -99,7 +99,7 @@ namespace XenomorphParts.Persistence.Repositories
             if (parent == 1234576)
                 return new List<IAssemblyDto>() { _asdto1 };
             else
-                throw new AssemblyNotFoundException($"Assembly not found for {nameof(IAssemblyDto.Parent)}: {parent}. ");
+                throw new ParameterNullException($"Assembly not found for {nameof(IAssemblyDto.Parent)}: {parent}. ");
         }
 
         public IEnumerable<IAssemblyDto> GetByPartId(long part)
@@ -110,7 +110,7 @@ namespace XenomorphParts.Persistence.Repositories
                     return new List<IAssemblyDto>() { _asdto1 };
             } 
 
-            throw new AssemblyNotFoundException($"Assembly not with Part: {part}. ");
+            throw new ParameterNullException($"Assembly not with Part: {part}. ");
         }
     }
 }

@@ -25,7 +25,7 @@ namespace XenomorphParts.Domain.Controllers
             {
                 return Ok(_asmRepo.GetById(id));
             }
-            catch (AssemblyNotFoundException e)
+            catch (ParameterNullException e)
             {
                 return BadRequest(e.Message);
             }
@@ -36,11 +36,17 @@ namespace XenomorphParts.Domain.Controllers
         [HttpGet("{manufacturer}")]
         public IActionResult GetByManufacturer(string manufacturer)
         {
+            if ( String.IsNullOrEmpty(manufacturer) )
+            {
+                ParameterNullException e = new ParameterNullException("The parameter cannot be null");
+                return BadRequest(e.Message);
+            }
+
             try
             {
                 return Ok(_asmRepo.GetByManufacturerId(manufacturer));
             }
-            catch (AssemblyNotFoundException e)
+            catch (ParameterNullException e)
             {
                 return BadRequest(e.Message);
             }
@@ -55,7 +61,7 @@ namespace XenomorphParts.Domain.Controllers
             {
                 return Ok(_asmRepo.GetByModelId(model));
             }
-            catch (AssemblyNotFoundException e)
+            catch (ParameterNullException e)
             {
                 return BadRequest(e.Message);
             }
@@ -66,11 +72,17 @@ namespace XenomorphParts.Domain.Controllers
         [HttpGet("{name}")]
         public IActionResult GetByName(string name)
         {
+            if ( String.IsNullOrEmpty(name) )
+            {
+                ParameterNullException e = new ParameterNullException("The parameter cannot be null");
+                return BadRequest(e.Message);
+            }
+
             try
             {
                 return Ok(_asmRepo.GetByName(name));
             }
-            catch (AssemblyNotFoundException e)
+            catch (ParameterNullException e)
             {
                 return BadRequest(e.Message);
             }
@@ -85,7 +97,7 @@ namespace XenomorphParts.Domain.Controllers
             {
                 return Ok(_asmRepo.GetByParent(parent));
             }
-            catch (AssemblyNotFoundException e)
+            catch (ParameterNullException e)
             {
                 return BadRequest(e.Message);
             }
@@ -100,7 +112,7 @@ namespace XenomorphParts.Domain.Controllers
             {
                 return Ok(_asmRepo.GetByPartId(part));
             }
-            catch (AssemblyNotFoundException e)
+            catch (ParameterNullException e)
             {
                 return BadRequest(e.Message);
             }

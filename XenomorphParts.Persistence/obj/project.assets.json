@@ -3463,29 +3463,23 @@
   },
   "packageFolders": {
     "C:\\Users\\v-jamore\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "C:\\Users\\v-jamore\\Source\\Repos\\XenomorphParts\\XenomorphParts.Persistence\\XenomorphParts.Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\v-jamore\\source\\repos\\XenomorphParts\\XenomorphParts.Persistence\\XenomorphParts.Persistence.csproj",
       "projectName": "XenomorphParts.Persistence",
-      "projectPath": "C:\\Users\\v-jamore\\Source\\Repos\\XenomorphParts\\XenomorphParts.Persistence\\XenomorphParts.Persistence.csproj",
+      "projectPath": "C:\\Users\\v-jamore\\source\\repos\\XenomorphParts\\XenomorphParts.Persistence\\XenomorphParts.Persistence.csproj",
       "packagesPath": "C:\\Users\\v-jamore\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\v-jamore\\Source\\Repos\\XenomorphParts\\XenomorphParts.Persistence\\obj\\",
+      "outputPath": "C:\\Users\\v-jamore\\source\\repos\\XenomorphParts\\XenomorphParts.Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\v-jamore\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
@@ -3497,14 +3491,14 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\v-jamore\\Source\\Repos\\XenomorphParts\\XenomorphParts.Interfaces\\XenomorphParts.Interfaces.csproj": {
-              "projectPath": "C:\\Users\\v-jamore\\Source\\Repos\\XenomorphParts\\XenomorphParts.Interfaces\\XenomorphParts.Interfaces.csproj"
+            "C:\\Users\\v-jamore\\source\\repos\\XenomorphParts\\XenomorphParts.DTO\\XenomorphParts.DTO.csproj": {
+              "projectPath": "C:\\Users\\v-jamore\\source\\repos\\XenomorphParts\\XenomorphParts.DTO\\XenomorphParts.DTO.csproj"
             },
-            "C:\\Users\\v-jamore\\Source\\Repos\\XenomorphParts\\XenomorphParts.DTO\\XenomorphParts.DTO.csproj": {
-              "projectPath": "C:\\Users\\v-jamore\\Source\\Repos\\XenomorphParts\\XenomorphParts.DTO\\XenomorphParts.DTO.csproj"
+            "C:\\Users\\v-jamore\\source\\repos\\XenomorphParts\\XenomorphParts.Exceptions\\XenomorphParts.Exceptions.csproj": {
+              "projectPath": "C:\\Users\\v-jamore\\source\\repos\\XenomorphParts\\XenomorphParts.Exceptions\\XenomorphParts.Exceptions.csproj"
             },
-            "C:\\Users\\v-jamore\\Source\\Repos\\XenomorphParts\\XenomorphParts.Exceptions\\XenomorphParts.Exceptions.csproj": {
-              "projectPath": "C:\\Users\\v-jamore\\Source\\Repos\\XenomorphParts\\XenomorphParts.Exceptions\\XenomorphParts.Exceptions.csproj"
+            "C:\\Users\\v-jamore\\source\\repos\\XenomorphParts\\XenomorphParts.Interfaces\\XenomorphParts.Interfaces.csproj": {
+              "projectPath": "C:\\Users\\v-jamore\\source\\repos\\XenomorphParts\\XenomorphParts.Interfaces\\XenomorphParts.Interfaces.csproj"
             }
           }
         }

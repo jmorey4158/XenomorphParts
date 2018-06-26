@@ -1,0 +1,7 @@
+C:\Users\v-jamore\source\repos\XenomorphParts\.vs\XenomorphParts\lut\0\b\XenomorphParts.Models\Debug\netcoreapp2.0\XenomorphParts.Models.deps.json
+C:\Users\v-jamore\source\repos\XenomorphParts\.vs\XenomorphParts\lut\0\b\XenomorphParts.Models\Debug\netcoreapp2.0\XenomorphParts.Models.dll
+C:\Users\v-jamore\source\repos\XenomorphParts\.vs\XenomorphParts\lut\0\i\XenomorphParts.Models\Debug\netcoreapp2.0\XenomorphParts.Models.csproj.CoreCompileInputs.cache
+C:\Users\v-jamore\source\repos\XenomorphParts\.vs\XenomorphParts\lut\0\i\XenomorphParts.Models\Debug\netcoreapp2.0\XenomorphParts.Models.AssemblyInfoInputs.cache
+C:\Users\v-jamore\source\repos\XenomorphParts\.vs\XenomorphParts\lut\0\i\XenomorphParts.Models\Debug\netcoreapp2.0\XenomorphParts.Models.AssemblyInfo.cs
+C:\Users\v-jamore\source\repos\XenomorphParts\.vs\XenomorphParts\lut\0\i\XenomorphParts.Models\Debug\netcoreapp2.0\XenomorphParts.Models.csproj.CopyComplete
+C:\Users\v-jamore\source\repos\XenomorphParts\.vs\XenomorphParts\lut\0\i\XenomorphParts.Models\Debug\netcoreapp2.0\XenomorphParts.Models.dll

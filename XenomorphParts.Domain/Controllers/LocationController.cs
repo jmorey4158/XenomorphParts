@@ -21,6 +21,12 @@ namespace XenomorphParts.Domain.Controllers
         [HttpGet("{id}")]
         public IActionResult GetById(string id)
         {
+            if ( String.IsNullOrEmpty(id) )
+            {
+                ParameterNullException e = new ParameterNullException("The parameter cannot be null");
+                return BadRequest(e.Message);
+            }
+
             try
             {
                 return Ok(_locService.GetById(id));
@@ -36,6 +42,12 @@ namespace XenomorphParts.Domain.Controllers
         [HttpGet("{galaxy}")]
         public IActionResult GetByGalaxy(string galaxy)
         {
+            if ( String.IsNullOrEmpty(galaxy) )
+            {
+                ParameterNullException e = new ParameterNullException("The parameter cannot be null");
+                return BadRequest(e.Message);
+            }
+
             try
             {
                 return Ok(_locService.GetByGalaxy(galaxy));
@@ -51,6 +63,12 @@ namespace XenomorphParts.Domain.Controllers
         [HttpGet("{system}")]
         public IActionResult GetBySystem(string system)
         {
+            if ( String.IsNullOrEmpty(system) )
+            {
+                ParameterNullException e = new ParameterNullException("The parameter cannot be null");
+                return BadRequest(e.Message);
+            }
+
             try
             {
                 return Ok(_locService.GetBySystem(system));
@@ -66,6 +84,12 @@ namespace XenomorphParts.Domain.Controllers
         [HttpGet("{planet}")]
         public IActionResult GetByPlanet(string planet)
         {
+            if ( String.IsNullOrEmpty(planet) )
+            {
+                ParameterNullException e = new ParameterNullException("The parameter cannot be null");
+                return BadRequest(e.Message);
+            }
+
             try
             {
                 return Ok(_locService.GetByPlanet(planet));
@@ -81,6 +105,12 @@ namespace XenomorphParts.Domain.Controllers
         [HttpGet("{region}")]
         public IActionResult GetByRegion(string region)
         {
+            if ( String.IsNullOrEmpty(region) )
+            {
+                ParameterNullException e = new ParameterNullException("The parameter cannot be null");
+                return BadRequest(e.Message);
+            }
+
             try
             {
                 return Ok(_locService.GetByRegion(region));
@@ -96,6 +126,12 @@ namespace XenomorphParts.Domain.Controllers
         [HttpGet("{state}")]
         public IActionResult GetByState(string state)
         {
+            if ( String.IsNullOrEmpty(state) )
+            {
+                ParameterNullException e = new ParameterNullException("The parameter cannot be null");
+                return BadRequest(e.Message);
+            }
+
             try
             {
                 return Ok(_locService.GetByState(state));
@@ -111,6 +147,12 @@ namespace XenomorphParts.Domain.Controllers
         [HttpGet("{postal}")]
         public IActionResult GetByPostalCode(string postal)
         {
+            if ( String.IsNullOrEmpty(postal) )
+            {
+                ParameterNullException e = new ParameterNullException("The parameter cannot be null");
+                return BadRequest(e.Message);
+            }
+
             try
             {
                 return Ok(_locService.GetByPostalCode(postal));

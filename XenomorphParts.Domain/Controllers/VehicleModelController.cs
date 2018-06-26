@@ -52,6 +52,12 @@ namespace XenomorphParts.Domain.Controllers
         [HttpGet("{name}")]
         public IActionResult GetByName(string name)
         {
+            if ( String.IsNullOrEmpty(name) )
+            {
+                ParameterNullException e = new ParameterNullException("The parameter cannot be null");
+                return BadRequest(e.Message);
+            }
+
             try
             {
                 return Ok(_modelService.GetByName(name));

@@ -68,6 +68,12 @@ namespace XenomorphParts.Domain.Controllers
         [HttpGet("{method}")]
         public IActionResult GetByMethod(string method)
         {
+            if ( String.IsNullOrEmpty(method) )
+            {
+                ParameterNullException e = new ParameterNullException("The parameter cannot be null");
+                return BadRequest(e.Message);
+            }
+
             try
             {
                 return Ok(_shipService.GetByMethod(method));
@@ -83,6 +89,12 @@ namespace XenomorphParts.Domain.Controllers
         [HttpGet("{status}")]
         public IActionResult GetByStatus(string status)
         {
+            if ( String.IsNullOrEmpty(status) )
+            {
+                ParameterNullException e = new ParameterNullException("The parameter cannot be null");
+                return BadRequest(e.Message);
+            }
+
             try
             {
                 return Ok(_shipService.GetByStatus(status));
@@ -98,6 +110,12 @@ namespace XenomorphParts.Domain.Controllers
         [HttpGet("{type}")]
         public IActionResult GetByType(string type)
         {
+            if ( String.IsNullOrEmpty(type) )
+            {
+                ParameterNullException e = new ParameterNullException("The parameter cannot be null");
+                return BadRequest(e.Message);
+            }
+
             try
             {
                 return Ok(_shipService.GetByType(type));
@@ -113,6 +131,12 @@ namespace XenomorphParts.Domain.Controllers
         [HttpGet("{date}")]
         public IActionResult GetByShippedDate(string date)
         {
+            if ( String.IsNullOrEmpty(date) )
+            {
+                ParameterNullException e = new ParameterNullException("The parameter cannot be null");
+                return BadRequest(e.Message);
+            }
+
             try
             {
                 DateTime _dt = new DateTime();
@@ -134,6 +158,12 @@ namespace XenomorphParts.Domain.Controllers
         [HttpGet("{date}")]
         public IActionResult GetByReceivedDate(string date)
         {
+            if ( String.IsNullOrEmpty(date) )
+            {
+                ParameterNullException e = new ParameterNullException("The parameter cannot be null");
+                return BadRequest(e.Message);
+            }
+
             try
             {
                 DateTime _dt = new DateTime();

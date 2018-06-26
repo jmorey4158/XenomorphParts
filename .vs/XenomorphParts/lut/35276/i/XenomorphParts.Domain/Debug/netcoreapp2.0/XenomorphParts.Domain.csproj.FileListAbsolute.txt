@@ -1,0 +1,10 @@
+C:\Users\v-jamore\source\repos\XenomorphParts\.vs\XenomorphParts\lut\0\i\XenomorphParts.Domain\Debug\netcoreapp2.0\XenomorphParts.Domain.csprojAssemblyReference.cache
+C:\Users\v-jamore\source\repos\XenomorphParts\.vs\XenomorphParts\lut\0\i\XenomorphParts.Domain\Debug\netcoreapp2.0\XenomorphParts.Domain.csproj.CoreCompileInputs.cache
+C:\Users\v-jamore\source\repos\XenomorphParts\.vs\XenomorphParts\lut\0\i\XenomorphParts.Domain\Debug\netcoreapp2.0\XenomorphParts.Domain.AssemblyInfoInputs.cache
+C:\Users\v-jamore\source\repos\XenomorphParts\.vs\XenomorphParts\lut\0\i\XenomorphParts.Domain\Debug\netcoreapp2.0\XenomorphParts.Domain.AssemblyInfo.cs
+C:\Users\v-jamore\source\repos\XenomorphParts\.vs\XenomorphParts\lut\0\b\XenomorphParts.Domain\Debug\netcoreapp2.0\XenomorphParts.Domain.deps.json
+C:\Users\v-jamore\source\repos\XenomorphParts\.vs\XenomorphParts\lut\0\b\XenomorphParts.Domain\Debug\netcoreapp2.0\XenomorphParts.Domain.runtimeconfig.json
+C:\Users\v-jamore\source\repos\XenomorphParts\.vs\XenomorphParts\lut\0\b\XenomorphParts.Domain\Debug\netcoreapp2.0\XenomorphParts.Domain.runtimeconfig.dev.json
+C:\Users\v-jamore\source\repos\XenomorphParts\.vs\XenomorphParts\lut\0\b\XenomorphParts.Domain\Debug\netcoreapp2.0\XenomorphParts.Domain.dll
+C:\Users\v-jamore\source\repos\XenomorphParts\.vs\XenomorphParts\lut\0\i\XenomorphParts.Domain\Debug\netcoreapp2.0\XenomorphParts.Domain.csproj.CopyComplete
+C:\Users\v-jamore\source\repos\XenomorphParts\.vs\XenomorphParts\lut\0\i\XenomorphParts.Domain\Debug\netcoreapp2.0\XenomorphParts.Domain.dll

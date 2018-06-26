@@ -16,3 +16,11 @@ C:\Users\JAMES\Documents\Visual Studio 2017\Projects\XenomorphParts\XenomorphPar
 C:\Users\JAMES\Documents\Visual Studio 2017\Projects\XenomorphParts\XenomorphParts.Exceptions\obj\Debug\netcoreapp2.0\XenomorphParts.Exceptions.AssemblyInfo.cs
 C:\Users\JAMES\Documents\Visual Studio 2017\Projects\XenomorphParts\XenomorphParts.Exceptions\obj\Debug\netcoreapp2.0\XenomorphParts.Exceptions.dll
 C:\Users\JAMES\Documents\Visual Studio 2017\Projects\XenomorphParts\XenomorphParts.Exceptions\obj\Debug\netcoreapp2.0\XenomorphParts.Exceptions.pdb
+C:\Users\v-jamore\source\repos\XenomorphParts\XenomorphParts.Exceptions\bin\Debug\netcoreapp2.0\XenomorphParts.Exceptions.deps.json
+C:\Users\v-jamore\source\repos\XenomorphParts\XenomorphParts.Exceptions\bin\Debug\netcoreapp2.0\XenomorphParts.Exceptions.dll
+C:\Users\v-jamore\source\repos\XenomorphParts\XenomorphParts.Exceptions\bin\Debug\netcoreapp2.0\XenomorphParts.Exceptions.pdb
+C:\Users\v-jamore\source\repos\XenomorphParts\XenomorphParts.Exceptions\obj\Debug\netcoreapp2.0\XenomorphParts.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\v-jamore\source\repos\XenomorphParts\XenomorphParts.Exceptions\obj\Debug\netcoreapp2.0\XenomorphParts.Exceptions.AssemblyInfoInputs.cache
+C:\Users\v-jamore\source\repos\XenomorphParts\XenomorphParts.Exceptions\obj\Debug\netcoreapp2.0\XenomorphParts.Exceptions.AssemblyInfo.cs
+C:\Users\v-jamore\source\repos\XenomorphParts\XenomorphParts.Exceptions\obj\Debug\netcoreapp2.0\XenomorphParts.Exceptions.dll
+C:\Users\v-jamore\source\repos\XenomorphParts\XenomorphParts.Exceptions\obj\Debug\netcoreapp2.0\XenomorphParts.Exceptions.pdb
