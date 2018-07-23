@@ -1,0 +1,7 @@
+C:\Users\v-jamore\source\repos\XenomorphParts\.vs\XenomorphParts\lut\0\b\XenomorphParts.Exceptions\Debug\netcoreapp2.0\XenomorphParts.Exceptions.deps.json
+C:\Users\v-jamore\source\repos\XenomorphParts\.vs\XenomorphParts\lut\0\b\XenomorphParts.Exceptions\Debug\netcoreapp2.0\XenomorphParts.Exceptions.dll
+C:\Users\v-jamore\source\repos\XenomorphParts\.vs\XenomorphParts\lut\0\i\XenomorphParts.Exceptions\Debug\netcoreapp2.0\XenomorphParts.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\v-jamore\source\repos\XenomorphParts\.vs\XenomorphParts\lut\0\i\XenomorphParts.Exceptions\Debug\netcoreapp2.0\XenomorphParts.Exceptions.AssemblyInfoInputs.cache
+C:\Users\v-jamore\source\repos\XenomorphParts\.vs\XenomorphParts\lut\0\i\XenomorphParts.Exceptions\Debug\netcoreapp2.0\XenomorphParts.Exceptions.AssemblyInfo.cs
+C:\Users\v-jamore\source\repos\XenomorphParts\.vs\XenomorphParts\lut\0\i\XenomorphParts.Exceptions\Debug\netcoreapp2.0\XenomorphParts.Exceptions.csproj.CopyComplete
+C:\Users\v-jamore\source\repos\XenomorphParts\.vs\XenomorphParts\lut\0\i\XenomorphParts.Exceptions\Debug\netcoreapp2.0\XenomorphParts.Exceptions.dll
