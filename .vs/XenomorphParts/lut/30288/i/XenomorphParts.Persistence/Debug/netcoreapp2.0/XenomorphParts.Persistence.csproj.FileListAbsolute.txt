@@ -1,8 +1,0 @@
-C:\Users\v-jamore\source\repos\XenomorphParts\.vs\XenomorphParts\lut\0\b\XenomorphParts.Persistence\Debug\netcoreapp2.0\XenomorphParts.Persistence.deps.json
-C:\Users\v-jamore\source\repos\XenomorphParts\.vs\XenomorphParts\lut\0\b\XenomorphParts.Persistence\Debug\netcoreapp2.0\XenomorphParts.Persistence.dll
-C:\Users\v-jamore\source\repos\XenomorphParts\.vs\XenomorphParts\lut\0\i\XenomorphParts.Persistence\Debug\netcoreapp2.0\XenomorphParts.Persistence.csprojAssemblyReference.cache
-C:\Users\v-jamore\source\repos\XenomorphParts\.vs\XenomorphParts\lut\0\i\XenomorphParts.Persistence\Debug\netcoreapp2.0\XenomorphParts.Persistence.csproj.CoreCompileInputs.cache
-C:\Users\v-jamore\source\repos\XenomorphParts\.vs\XenomorphParts\lut\0\i\XenomorphParts.Persistence\Debug\netcoreapp2.0\XenomorphParts.Persistence.AssemblyInfoInputs.cache
-C:\Users\v-jamore\source\repos\XenomorphParts\.vs\XenomorphParts\lut\0\i\XenomorphParts.Persistence\Debug\netcoreapp2.0\XenomorphParts.Persistence.AssemblyInfo.cs
-C:\Users\v-jamore\source\repos\XenomorphParts\.vs\XenomorphParts\lut\0\i\XenomorphParts.Persistence\Debug\netcoreapp2.0\XenomorphParts.Persistence.csproj.CopyComplete
-C:\Users\v-jamore\source\repos\XenomorphParts\.vs\XenomorphParts\lut\0\i\XenomorphParts.Persistence\Debug\netcoreapp2.0\XenomorphParts.Persistence.dll

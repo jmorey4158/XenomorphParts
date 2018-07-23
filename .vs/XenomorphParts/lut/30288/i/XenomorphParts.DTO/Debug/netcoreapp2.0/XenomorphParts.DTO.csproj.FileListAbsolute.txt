@@ -1,8 +1,0 @@
-C:\Users\v-jamore\source\repos\XenomorphParts\.vs\XenomorphParts\lut\0\b\XenomorphParts.DTO\Debug\netcoreapp2.0\XenomorphParts.DTO.deps.json
-C:\Users\v-jamore\source\repos\XenomorphParts\.vs\XenomorphParts\lut\0\b\XenomorphParts.DTO\Debug\netcoreapp2.0\XenomorphParts.DTO.dll
-C:\Users\v-jamore\source\repos\XenomorphParts\.vs\XenomorphParts\lut\0\i\XenomorphParts.DTO\Debug\netcoreapp2.0\XenomorphParts.DTO.csprojAssemblyReference.cache
-C:\Users\v-jamore\source\repos\XenomorphParts\.vs\XenomorphParts\lut\0\i\XenomorphParts.DTO\Debug\netcoreapp2.0\XenomorphParts.DTO.csproj.CoreCompileInputs.cache
-C:\Users\v-jamore\source\repos\XenomorphParts\.vs\XenomorphParts\lut\0\i\XenomorphParts.DTO\Debug\netcoreapp2.0\XenomorphParts.DTO.AssemblyInfoInputs.cache
-C:\Users\v-jamore\source\repos\XenomorphParts\.vs\XenomorphParts\lut\0\i\XenomorphParts.DTO\Debug\netcoreapp2.0\XenomorphParts.DTO.AssemblyInfo.cs
-C:\Users\v-jamore\source\repos\XenomorphParts\.vs\XenomorphParts\lut\0\i\XenomorphParts.DTO\Debug\netcoreapp2.0\XenomorphParts.DTO.csproj.CopyComplete
-C:\Users\v-jamore\source\repos\XenomorphParts\.vs\XenomorphParts\lut\0\i\XenomorphParts.DTO\Debug\netcoreapp2.0\XenomorphParts.DTO.dll
